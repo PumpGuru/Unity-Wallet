@@ -1,0 +1,3 @@
+{
+  "share-service": "pm2 start npx --name EthBullWallet-Ext -- httpserver 9997 localhost"
+}
